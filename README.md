@@ -5,8 +5,11 @@ Welcome to our final project for the class. Overview of the directories:
 3. real_world_test_bag_analysis - How we generated the communication plot from the toyota and honda bag files.
 4. deployed_controller - the controller that is compiled and stored in the cs3891-controller github repo.
 
+Currently these 4 directories are not present because the upload to github keeps choking. Will get this fixed.
+
 # External relevant repos:
 1. [https://github.com/AlexOSAdventurer/cs3861-baseline](https://github.com/AlexOSAdventurer/cs3861-baseline) - The libpanda app that is installed and uses the controller. Called baseline because we naively thought of it as a "baseline" libpanda app and then proceeded to do our whole project in it.
 2. [https://github.com/AlexOSAdventurer/cs3891-controller](https://github.com/AlexOSAdventurer/cs3891-controller) - The compiled controller.
 3. [https://github.com/jmscslgroup/ransom-server-site/tree/main/junyi_musketeer_project](https://github.com/jmscslgroup/ransom-server-site/tree/main/junyi_musketeer_project) - Ransom server backend.
 4. [https://github.com/jmscslgroup/libpanda/tree/nov-2023-junyi-class](https://github.com/jmscslgroup/libpanda/tree/nov-2023-junyi-class) - Relevant libpanda branch.
+5. [https://github.com/AlexOSAdventurer/cs3891-final-project](https://github.com/AlexOSAdventurer/cs3891-final-project) - This repo itself.

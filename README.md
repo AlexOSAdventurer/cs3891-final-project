@@ -2,7 +2,7 @@
 Welcome to our final project for the class. 
 
 # Box Directories
-The box link is here: [https://vanderbilt.box.com/s/1e68em60i4kpo0g4dxvxyd6j8cwvv2p7](https://vanderbilt.box.com/s/1e68em60i4kpo0g4dxvxyd6j8cwvv2p7). This is because it's just too big for github.
+The box link is here: [https://vanderbilt.box.com/s/1e68em60i4kpo0g4dxvxyd6j8cwvv2p7](https://vanderbilt.box.com/s/1e68em60i4kpo0g4dxvxyd6j8cwvv2p7). This is because it's just too big for github. This is basically all the code that didn't make it into an external repo for the other assignments.
 Overview of the directories:
 1. closed_loop_simulation - Controller and dockerfile and analysis for the closed loop simulation.
 2. open_loop_simulation - Controller and dockerfile and analysis for the open loop simulation.
